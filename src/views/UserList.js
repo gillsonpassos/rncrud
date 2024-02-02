@@ -24,7 +24,7 @@ export default props => {
     function getAction(user) {
         return (
             <>
-                <ListItem.Content>
+                {/* <ListItem.Content>
                     <ListItem.Title>{user.name}</ListItem.Title>
                     <ListItem.Subtitle>{user.email}</ListItem.Subtitle>
                 </ListItem.Content>
@@ -34,7 +34,7 @@ export default props => {
                     }}
                     type="clear"
                     icon={<Icon name="edit" size={25} color="orange" />}
-                />
+                /> */}
 
             </>
         )
