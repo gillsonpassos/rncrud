@@ -27,4 +27,10 @@ export default [
         avatarUrl:
             'https://cdn.pixabay.com/photo/2016/12/13/16/17/dancer-1904467_1280.png',
     },
+    {
+        id: 5,
+        name: 'Gilson Passos',
+        email: 'gillson@gillson.com',
+        avatarUrl: 'https://cdn.pixabay.com/photo/2024/01/15/20/54/man-8510874_1280.jpg'
+    }
 ];
